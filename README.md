@@ -22,7 +22,7 @@ I work mainly with TypeScript, GoLang and Python. Here are my open-source projec
 	<thead>
 		<th span="col">Project ⚙️</th>
 		<th span="col">Description 📝</th>
-		<th span="col">Role 🧑‍🏭</th>
+		<th span="col">Cool Badges 🔰</th>
 	</thead>
 	<tbody>
 		<tr>
