@@ -7,7 +7,7 @@
 
 I'm currently at Neo4j, leading the Design System team. 
 
-On my free time, I am building [Design System Cookbooks](https://designsystemcookbooks.com/), to become a central place to learn about desing systems, as a PM, designer or engineer.
+On my free time, I am building [Design System Cookbooks](https://designsystemcookbooks.com/), to become a central place to learn about design systems, as a PM, designer or engineer.
 
 Previously, I co-founded [VisualEyes](https://www.visualeyes.design/), which was acquired by a 🇩🇰 company.
 
